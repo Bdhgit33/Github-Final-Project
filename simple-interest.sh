@@ -3,11 +3,13 @@
    # annual rate of interest and time period in years.
 
    # Do not use this in production. Sample purpose only.
+   ---------------------------------------------------------------------
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors: Dan Smith - IBM Course Test Subject (ficticious character of strange sorts)
+   # ***Additional Authors: Dan Smith - IBM Course Test Subject 
    # <Bdhgit33>.
    
+   ------------------------------------------------------------------
    # Input:
    # p, principal amount
    # t, time period in years
