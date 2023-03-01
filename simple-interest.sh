@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors: Dan Smith - IBM Course Test Subject (ficticious character of strange sorts)
-   # <Bdhgit33>
+   # <Bdhgit33>.
    
    # Input:
    # p, principal amount
